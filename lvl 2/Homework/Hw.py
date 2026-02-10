@@ -35,7 +35,7 @@ number5= 3
 number6= 4
 number7= 5
 
-print(number3 // number4 // number5 // number6 // number7)
+print(number3+number4+number5+number6+number7 / 5)
 
 
     #4)კომენტარების გამოყენებით, თქვენი სიტყვებით ახსენით რას ნიშნავს დეკლარაცია , ინიციალიზება  და რეინიციალიზება , ასევე მოიყვანეთ მაგალითები
