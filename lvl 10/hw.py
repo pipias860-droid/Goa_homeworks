@@ -31,7 +31,7 @@ elif score < 30 and attendance <50:
 
 temp1= input("რა ტემპერატურაა თქვენთნ?: ")
 
-rain= bool(int(input("არის თქვენთან წვიმა?(no/yes) ")))
+rain= bool(input("არის თქვენთან წვიმა?(no/yes) "))
 
 if temp > 25 and rain =="no":
     print("შესანიშნავი ამინდია სასეირნოდ!")
