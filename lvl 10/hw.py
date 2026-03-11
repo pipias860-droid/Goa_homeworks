@@ -24,7 +24,7 @@ elif score > 50 and attendance > 70:
     print("საშუალოდ დაწერე გამოცდა")
 elif score > 30 and attendance > 50:
     print("გაჭირვებით, მაგრამ ჩააბარე გამოცდა")
-elif score < 30 and attendance <50:
+else:
     print("ჩაიჭერი")
 
 
